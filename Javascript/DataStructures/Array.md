@@ -5,14 +5,14 @@ An **Array** is a data structure that stores a collection of elements in a seque
 
 ### 2. **Key Characteristics:**
 - **Indexed**: Each element is accessed by its index, starting from 0.
-- **Resizable**: In JavaScript, arrays are dynamic, meaning they can grow or shrink in size.
-- **Mixed Types**: Arrays in JavaScript can hold elements of different types.
+- **Resizable**: Arrays are dynamic, meaning they can grow or shrink in size.
+- **Mixed Types**: Arrays can hold elements of different types.
 - **Mutable**: The elements in an array can be modified after the array is created.
 
 
 ### 3. **Advantages of Arrays**:
 - **Fast access** to elements by index.
-- **Dynamic size** in JavaScript, meaning arrays can grow and shrink as needed.
+- **Dynamic size**. Meaning arrays can grow and shrink as needed.
 - **Versatile** for storing collections of data, especially when order matters.
 
 ---

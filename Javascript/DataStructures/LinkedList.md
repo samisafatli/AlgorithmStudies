@@ -28,9 +28,7 @@ There are several types of linked lists:
 - **Extra Memory**: Each node requires extra memory for the pointer/reference, making them less memory efficient than arrays.
 - **No Random Access**: Linked lists do not provide constant time access by index, unlike arrays.
 
-### 5. **Singly Linked List Implementation in JavaScript**
-
-Here is a basic implementation of a **Singly Linked List** in JavaScript:
+### 5. **Singly Linked List Implementation**
 
 ```javascript
 class Node {
@@ -127,7 +125,7 @@ console.log(list.search(20));  // Output: true
 
 ---
 
-### 7. **Doubly Linked List Implementation in JavaScript**
+### 7. **Doubly Linked List Implementation**
 
 A **Doubly Linked List** contains nodes with references to both the **next** and **previous** nodes.
 

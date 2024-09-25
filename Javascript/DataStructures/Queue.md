@@ -24,7 +24,7 @@ A **Queue** is a linear data structure that follows the **First In, First Out (F
 - **Breadth-First Search**: In graph traversal algorithms, queues are used to explore nodes level by level.
 - **Printer Queues**: Jobs in a printer queue are handled in a first-come-first-served manner.
 
-### 6. **Queue Implementation in JavaScript**
+### 6. **Queue Implementation**
 
 ```javascript
 class Queue {
@@ -86,7 +86,7 @@ console.log(queue.size()); // Output: 2
 
 A **Circular Queue** is a queue where the last element is connected back to the first element to make a circle. This allows for efficient use of memory by reusing the space once elements are dequeued.
 
-### 1. **Circular Queue in JavaScript**
+### 1. **Circular Queue**
 
 ```javascript
 class CircularQueue {

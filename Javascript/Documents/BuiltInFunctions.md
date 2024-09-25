@@ -1,4 +1,4 @@
-## Main built-in functions in JavaScript
+## Main built-in functions
 ---
 
 ### 1. **String Built-in Functions**
@@ -219,11 +219,11 @@
 
 ### 6. **JSON Built-in Functions**
 
-- **`JSON.stringify(obj)`**: Converts a JavaScript object or value to a JSON string. **TC: O(n)**
+- **`JSON.stringify(obj)`**: Converts a JS object or value to a JSON string. **TC: O(n)**
   ```javascript
   let obj = { a: 1, b: 2 };
   JSON.stringify(obj); // Output: '{"a":1,"b":2}'
-- **`JSON.parse(string)`**: Parses a JSON string and returns a JavaScript object. **TC: O(n)**
+- **`JSON.parse(string)`**: Parses a JSON string and returns a JS object. **TC: O(n)**
   ```javascript
   let jsonStr = '{"a":1,"b":2}';
   JSON.parse(jsonStr); // Output: { a: 1, b: 2 }

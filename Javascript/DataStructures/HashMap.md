@@ -141,8 +141,8 @@ console.log(ht.values());      // Output: ["#FFC0CB", "#0000FF", "#FFFF00"]
 
 ---
 
-## 9. **Common Built-in JavaScript Hash Map Methods (ES6 `Map`)**
-JavaScript provides a built-in `Map` object that functions as a hash table. Here are some common methods:
+## 9. **Common Built-in Hash Map Methods**
+JS provides a built-in `Map` object that functions as a hash table.
 
 - **`set(key, value)`**: Adds or updates the key-value pair in the map.
   ```javascript

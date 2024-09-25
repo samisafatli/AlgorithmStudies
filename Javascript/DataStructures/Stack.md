@@ -23,7 +23,7 @@ A **Stack** is a linear data structure that follows the **Last In, First Out (LI
 - **Expression Evaluation**: Used in compilers to evaluate expressions like `2 + 3 * (4 - 1)`.
 - **Backtracking Algorithms**: Stacks can be used for backtracking (e.g., depth-first search in graphs).
 
-### 6. **Stack Implementation in JavaScript**
+### 6. **Stack Implementation**
 
 ```javascript
 class Stack {
