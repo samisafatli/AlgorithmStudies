@@ -1,8 +1,4 @@
-## Main Loop
-
----
-
-# JavaScript Loops
+# Loops
 
 ## 1. **`for` Loop**
 ## Main Use:
