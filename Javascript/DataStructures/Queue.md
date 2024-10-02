@@ -1,7 +1,7 @@
 
 ## Queues
 
-### 1. **What is a Queue?**
+### 1. **Definition**
 A **Queue** is a linear data structure that follows the **First In, First Out (FIFO)** principle. This means that the element added first is the one to be removed first.
 
 ### 2. **Key Characteristics:**

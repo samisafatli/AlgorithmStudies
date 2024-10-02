@@ -1,6 +1,6 @@
 ## Linked Lists
 
-### 1. **What is a Linked List?**
+### 1. **Definition**
 A **Linked List** is a linear data structure where each element (node) points to the next one in the sequence. Unlike arrays, linked lists do not have continuous memory allocation, and they are dynamic in size.
 
 Each node contains:

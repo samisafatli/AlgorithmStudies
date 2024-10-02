@@ -1,6 +1,6 @@
 ## Arrays
 
-### 1. **What is an Array?**
+### 1. **Definition**
 An **Array** is a data structure that stores a collection of elements in a sequential manner. These elements can be of any type (numbers, strings, objects, etc.), and they are ordered by index, starting from 0.
 
 ### 2. **Key Characteristics:**

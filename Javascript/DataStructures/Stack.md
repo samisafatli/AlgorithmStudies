@@ -1,6 +1,6 @@
 # Stacks
 
-### 1. **What is a Stack?**
+### 1. **Definition**
 A **Stack** is a linear data structure that follows the **Last In, First Out (LIFO)** principle. This means that the most recently added element is the first one to be removed.
 
 ### 2. **Key Characteristics:**

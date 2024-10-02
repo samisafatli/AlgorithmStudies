@@ -1,6 +1,6 @@
 # Trees
 
-## 1. **What is a Tree?**
+### 1. **Definition**
 A **Tree** is a hierarchical data structure consisting of nodes, where each node has a value and references (or links) to other nodes. It is often used to represent relationships between data elements that have a parent-child hierarchy.
 
 ### Key Components:

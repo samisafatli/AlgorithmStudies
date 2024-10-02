@@ -1,6 +1,6 @@
 # Hash Maps
 
-## 1. **Definition**
+### 1. **Definition**
 A **Hash Map** is a data structure that stores **key-value** pairs. It uses a **hash function** to compute an index (called a hash code) into an array of buckets or slots, where the desired value can be found. Hash Tables are highly efficient for lookups, insertions, and deletions.
 
 ### Key Components:
